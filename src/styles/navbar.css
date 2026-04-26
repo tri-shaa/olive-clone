@@ -1,0 +1,53 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 80px;
+}
+
+.logo {
+  font-size: 26px;
+  font-weight: 700;
+  color: #1f4d2b;
+  margin-right: 130px;   /* 🔥 adds space */
+}
+
+.nav-links {
+  display: flex;
+  gap: 30px;
+  flex: 1;              /* 🔥 pushes right section */
+}
+
+.nav-links span {
+  cursor: pointer;
+}
+
+.nav-right {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.nav-left {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+}
+
+.logo {
+    height: 40px;     /* adjust if needed */
+    cursor: pointer;
+}
+
+.nav-right span {
+  white-space: nowrap;  /* 🔥 prevents "Sign in" break */
+}
+
+.btn {
+  background-color: #1f4d2b;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 25px;
+  cursor: pointer;
+}
