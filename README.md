@@ -3,10 +3,10 @@
 This project is a pixel-accurate frontend recreation of a landing page from the Olive App website, built as part of a frontend assessment.
 
  Live Demo
---  olive-clone-git-main-misstrisha04-6685s-projects.vercel.app
+--  https://olive-clone-git-main-misstrisha04-6685s-projects.vercel.app/
 
  GitHub Repository
-🔗 https://github.com/tri-shaa/olive-clone
+--  https://github.com/tri-shaa/olive-clone
 
 
 ## Overview
